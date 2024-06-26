@@ -2,7 +2,7 @@
 
 # 🧬 Pancreatic Cancer Genomics RAG Application
 
-<img src="https://your-image-url-here.com/project-logo.png" alt="Project Logo" width="200"/>
+<img src="https://ibb.co/MMqqY0W" alt="Project Logo" width="200"/>
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
