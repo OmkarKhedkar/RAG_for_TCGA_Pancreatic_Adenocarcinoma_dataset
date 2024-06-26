@@ -21,7 +21,7 @@ Empowering pancreatic cancer research through AI-driven genomic data analysis.
 ## 🌟 About The Project
 
 <p align="center">
-  <img src="https://your-image-url-here.com/project-screenshot.png" alt="Project Screenshot" width="600"/>
+  <img src="https://github.com/OmkarKhedkar/RAG_for_TCGA_Pancreatic_Adenocarcinoma_dataset/blob/main/project_screenshot.png" alt="Project Screenshot" width="600"/>
 </p>
 
 The Pancreatic Cancer Genomics RAG Application is a cutting-edge tool designed to revolutionize how researchers and clinicians interact with pancreatic cancer genomic data. By leveraging the power of Retrieval-Augmented Generation (RAG) and OpenAI's advanced language models, this application provides an intuitive interface for querying complex genomic datasets and obtaining AI-generated insights.
