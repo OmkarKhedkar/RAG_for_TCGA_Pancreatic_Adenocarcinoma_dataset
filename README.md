@@ -70,7 +70,7 @@ python -m venv venv
   npm install
 
 
-Usage
+### Usage
 
 1. Start the backend server
   cd backend
@@ -109,6 +109,8 @@ Here are some example questions you can ask our Pancreatic Cancer Genomics RAG:
    - What genetic similarities exist between familial and sporadic cases of pancreatic cancer?
 
 Note: The accuracy and depth of answers will depend on the data uploaded and processed by the system.
+
+To use these sample questions, simply copy and paste them into the query input field of the application after uploading your genomic data files.
 
 ## Roadmap
 
