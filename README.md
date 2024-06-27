@@ -84,6 +84,32 @@ Usage
 4. Upload your pancreatic cancer genomic data files
 5. Start querying and exploring the data!
 
+## Sample Questions
+
+Here are some example questions you can ask our Pancreatic Cancer Genomics RAG:
+
+1. **Basic Information:**
+   - What are the most common genetic mutations in pancreatic cancer?
+   - How does the KRAS gene contribute to pancreatic cancer development?
+
+2. **Diagnosis and Prognosis:**
+   - What genomic markers are used for early detection of pancreatic cancer?
+   - How do specific gene expressions correlate with survival rates in pancreatic cancer patients?
+
+3. **Treatment-related:**
+   - Which genetic profiles respond best to chemotherapy in pancreatic cancer?
+   - How does the BRCA mutation affect treatment options for pancreatic cancer?
+
+4. **Research and Clinical Trials:**
+   - What are the latest genomic targets for pancreatic cancer immunotherapy?
+   - How do epigenetic changes influence pancreatic cancer progression?
+
+5. **Comparative Analysis:**
+   - How do genomic profiles of pancreatic cancer differ from those of other gastrointestinal cancers?
+   - What genetic similarities exist between familial and sporadic cases of pancreatic cancer?
+
+Note: The accuracy and depth of answers will depend on the data uploaded and processed by the system.
+
 ## Roadmap
 
 - [x] Basic RAG implementation
